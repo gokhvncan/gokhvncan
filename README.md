@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @gokhvncan
-- 👀 I’m interested in coding and game devops
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on noone
+- 👀 I’m interested cybersecurity
+- my monthly goals
+- ISC2 CC (working on this)
+- CompTIA Security+ (3–4)
+- eJPT (5–6)
+- OSCP (10–12)
 - 📫 How to reach me gokhancbusiness@gmail.com
-- 😄 Pronouns:
 
 <!---
 gokhvncan/gokhvncan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
