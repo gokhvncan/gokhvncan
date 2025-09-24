@@ -7,19 +7,10 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🛡️ Cybersecurity Analyst  
-- 🎯 Passion for **Offensive Security, Threat Hunting, Incident Response**   
-- 🚀 Sharing tools & guides for the community
-## 🧪 TryHackMe — Jump into my labs
-<p>
-  <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TryHackMe-Visit%20My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-  </a>
-</p>
-
-**Prompt (kısa not / çağrı):**  
-> 🚀 Want hands-on challenges? Start with my TryHackMe profile — **cangokhan**. Check my walkthroughs, badges and active labs. Click the badge above to go directly to my TryHackMe page.
-
+- 🛡️ Senior Cybersecurity Specialist  
+- 🎯 Passion for **Offensive Security, Threat Hunting, Incident Response**  
+- 🧰 Experienced in **SIEM, Cloud Security, Red/Blue Team Operations**  
+- 🚀 Sharing tools & guides for the community  
 
 ---
 
@@ -45,9 +36,59 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)  
 
 **☁️ Cloud & DevSecOps**  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Falco](https://img.shields.io/badge/-Falco-0C5E92?logo=linux&logoColor=white)  
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=radical)
+---
+
+## 📂 Featured Projects  
+- 🔍 **[Auto-Nmap Scanner](#)** – Automated network scanning & reporting  
+- 🛡️ **[Syslog Analyzer](#)** – Detect anomalies in system logs  
+- 🎣 **[Honeypot Deployment Guide](#)** – Detecting attackers in the wild  
+- 📘 **[Pentest Cheat Sheet](#)** – Hands-on notes for penetration testers  
+
+---
+
+## 🧪 TryHackMe — Jump into my labs
+<p>
+  <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TryHackMe-Visit%20My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
+</p>
+
+**Prompt (kısa not / çağrı):**  
+> 🚀 Want hands-on challenges? Start with my TryHackMe profile — **cangokhan**. Check my walkthroughs, badges and active labs. Click the badge above to go directly to my TryHackMe page.
+
+---
+
+## 🎓 Certifications & Labs  
+- 🏴 TryHackMe | [Profile](https://tryhackme.com/p/cangokhan)  
+- 🕵 HackTheBox | [Profile](#)  
+- 🎖️ Free Cybersecurity Certifications *(IBM, Google, Coursera)*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&theme=radical" height="165"/>
+</p>  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)  
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium)](#)  
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-green?logo=hackthebox)](#)  
+
+---
+
+🔥 *“Hack the system, secure the future.”* 🔥  
+
 
 
 <!---
