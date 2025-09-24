@@ -7,9 +7,19 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🛡️ Cybersecurity Specialist  
+- 🛡️ Cybersecurity Analyst  
 - 🎯 Passion for **Offensive Security, Threat Hunting, Incident Response**   
-- 🚀 Sharing tools & guides for the community  
+- 🚀 Sharing tools & guides for the community
+## 🧪 TryHackMe — Jump into my labs
+<p>
+  <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TryHackMe-Visit%20My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
+</p>
+
+**Prompt (kısa not / çağrı):**  
+> 🚀 Want hands-on challenges? Start with my TryHackMe profile — **cangokhan**. Check my walkthroughs, badges and active labs. Click the badge above to go directly to my TryHackMe page.
+
 
 ---
 
