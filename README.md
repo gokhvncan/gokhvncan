@@ -81,7 +81,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)https://medium.com/@gokhancbusiness  
+[![LinkedIn](https://medium.com/@gokhancbusiness)](#)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium)](#)  
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-green?logo=hackthebox)](#)  
 
