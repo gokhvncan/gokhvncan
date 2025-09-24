@@ -7,9 +7,8 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🛡️ Senior Cybersecurity Specialist  
-- 🎯 Passion for **Offensive Security, Threat Hunting, Incident Response**  
-- 🧰 Experienced in **SIEM, Cloud Security, Red/Blue Team Operations**  
+- 🛡️ Cybersecurity Specialist  
+- 🎯 Passion for **Offensive Security, Threat Hunting, Incident Response**   
 - 🚀 Sharing tools & guides for the community  
 
 ---
@@ -38,15 +37,6 @@
 **☁️ Cloud & DevSecOps**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor)
 
-- 👀 I’m interested cybersecurity
-- my monthly goals
-- ISC2 CC (working on this)
-- CompTIA Security+ (3–4)
-- eJPT (5–6)
-- OSCP (10–12)
-- 📫 How to reach me (https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/)
-- tryhackme: https://tryhackme.com/p/cangokhan
-- 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=radical)
 
 
