@@ -7,15 +7,15 @@
 ---
 
 ## 👋 Hakkımda
-- Merhaba — ben **Gökhan Can**. Siber güvenlik alanında **başlangıç/orta seviye** bir meraklıyım.  
+- Merhaba — ben **Gökhan Can**. Siber güvenlik alanında **orta seviye** bir meraklıyım.  
 - Şu an: öğreniyorum, pratik yapıyorum ve küçük araçlar/projeler yapıyorum.  
 - İlgi alanlarım: **pentesting, log analizi, ağ taramaları ve Linux scripting**.
 
 ---
 
-## 🧰 Mevcut Beceriler (Özet)
-- Temel araçlar: `Nmap`, `Wireshark` (temel), `Burp Suite (temel)`  
-- Diller / scripting: `Python (temel)`, `Bash (temel)`  
+## 🧰 Mevcut Beceriler 
+- Temel araçlar: `Nmap`, `Wireshark` , `Burp Suite `  
+- Diller / scripting: `Python `, `Bash (temel)`  
 - Platformlar / öğrenme: `TryHackMe`, `HackTheBox (başlangıç)`  
 
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧪 TryHackMe — Hands-on
+## 🧪 TryHackMe 
 <p>
   <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔗 İletişim / Profiller
+## 🔗 İletişim 
 - LinkedIn: https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/  
 - TryHackMe: https://tryhackme.com/p/cangokhan  
 
