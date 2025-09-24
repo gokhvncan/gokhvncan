@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/120002" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Digital_rain_animation_medium_letters_shine.gif" width="400" />
 </p>
-
 - 👀 I’m interested cybersecurity
 - my monthly goals
 - ISC2 CC (working on this)
