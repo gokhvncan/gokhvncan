@@ -5,7 +5,7 @@
 - CompTIA Security+ (3–4)
 - eJPT (5–6)
 - OSCP (10–12)
-- 📫 How to reach me gokhancbusiness@gmail.com
+- 📫 How to reach me (https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/)
 
 <!---
 gokhvncan/gokhvncan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
