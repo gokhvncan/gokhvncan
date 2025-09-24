@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/> </p>
+<p align="center"> <img src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s" width="400"/> </p>
 - 👀 I’m interested cybersecurity
 - my monthly goals
 - ISC2 CC (working on this)
