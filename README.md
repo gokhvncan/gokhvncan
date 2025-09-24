@@ -9,7 +9,7 @@
 ## 👋 Hakkımda
 - Merhaba — ben **Gökhan Can**. Siber güvenlik alanında **başlangıç/orta seviye** bir meraklıyım.  
 - Şu an: öğreniyorum, pratik yapıyorum ve küçük araçlar/projeler yapıyorum.  
-- İlgi alanlarım: **pentesting temelleri, log analizi, ağ taramaları ve Linux scripting**.
+- İlgi alanlarım: **pentesting, log analizi, ağ taramaları ve Linux scripting**.
 
 ---
 
@@ -17,7 +17,7 @@
 - Temel araçlar: `Nmap`, `Wireshark` (temel), `Burp Suite (temel)`  
 - Diller / scripting: `Python (temel)`, `Bash (temel)`  
 - Platformlar / öğrenme: `TryHackMe`, `HackTheBox (başlangıç)`  
-- Diğer: temel Linux komutları, git ile repo yönetimi
+
 
 ---
 
@@ -25,8 +25,6 @@
 - `auto-nmap-scan/` — Basit Nmap tarayıcı + CSV rapor (öğrenme projesi)  
 - `syslog-parser/` — Syslogları JSON'a çeviren küçük Python script  
 - `pentest-notes/` — Kısa notlar & cheat-sheet (komutlar, workflow)  
-
-*(Bu projeler örnek; istersen birlikte birine README + örnek kod ekleyebiliriz.)*
 
 ---
 
