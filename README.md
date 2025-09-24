@@ -9,7 +9,7 @@
 - tryhackme: https://tryhackme.com/p/cangokhan
 - 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&theme=radical)
+
 
 <!---
 
