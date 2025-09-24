@@ -43,13 +43,13 @@
 
 ---
 
-## 🎯 Hedefim (Kısa)
+## 🎯 Hedefim 
 - Öncelikle temel pentest ve incident response becerilerimi güçlendirmek.  
 - 6 ay içinde 3 tamamlanmış TryHackMe walkthrough’u + 1 açık kaynak küçük araç paylaşmak.
 
 ---
 
-## 📌 Notlar (işverenler için kısa)
+## 📌
 - Öğrenmeye açık, ekip içinde hızlı adapte olabilen biriyim.  
 - Gerçek dünyaya uygulanabilir küçük projeler ve öğrenme notları repo’larımda mevcut — incelemek istersen `Featured Projects` bölümündeki repolara bakabilirsin.
 
