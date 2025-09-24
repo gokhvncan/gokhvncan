@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/hackernoon-shoot-matrix-hacker-eeoYEz2DD0H6DQFNJo" width="400"/>
+  <img src="https://gifs.alphacoders.com/gifs/view/120002" width="400"/>
 </p>
+
 - 👀 I’m interested cybersecurity
 - my monthly goals
 - ISC2 CC (working on this)
