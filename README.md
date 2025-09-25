@@ -27,7 +27,7 @@
   </a>
 </p>
 - LinkedIn: https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/  
-- TryHackMe: https://tryhackme.com/p/cangokhan  
+
 
 ---
 
