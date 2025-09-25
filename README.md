@@ -21,12 +21,6 @@
 
 ---
 
-## 📂 Küçük Projeler / Çalışmalar
-- `auto-nmap-scan/` — Basit Nmap tarayıcı + CSV rapor (öğrenme projesi)  
-- `syslog-parser/` — Syslogları JSON'a çeviren küçük Python script  
-- `pentest-notes/` — Kısa notlar & cheat-sheet (komutlar, workflow)  
-
----
 
 ## 🧪 TryHackMe 
 <p>
@@ -40,18 +34,6 @@
 ## 🔗 İletişim 
 - LinkedIn: https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/  
 - TryHackMe: https://tryhackme.com/p/cangokhan  
-
----
-
-## 🎯 Hedefim 
-- Öncelikle temel pentest ve incident response becerilerimi güçlendirmek.  
-- 6 ay içinde 3 tamamlanmış TryHackMe walkthrough’u + 1 açık kaynak küçük araç paylaşmak.
-
----
-
-## 📌
-- Öğrenmeye açık, ekip içinde hızlı adapte olabilen biriyim.  
-- Gerçek dünyaya uygulanabilir küçük projeler ve öğrenme notları repo’larımda mevcut — incelemek istersen `Featured Projects` bölümündeki repolara bakabilirsin.
 
 ---
 
