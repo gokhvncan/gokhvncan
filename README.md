@@ -6,19 +6,29 @@
 
 ---
 
-## 👋 Hakkımda
-- Merhaba — ben **Gökhan Can**. Siber güvenlik alanında **orta seviye** bir meraklıyım.  
-- Şu an: öğreniyorum, pratik yapıyorum ve küçük araçlar/projeler yapıyorum.  
-- İlgi alanlarım: **pentesting, log analizi, ağ taramaları ve Linux scripting**.
+👋 About Me
+
+Hi — I’m Gökhan Can, an intermediate-level enthusiast in the field of cybersecurity.
+
+Currently: learning, practicing, and building small tools/projects.
+
+My interests include: penetration testing, log analysis, network scanning, and Security.
 
 ---
 
-## 🧰 Mevcut Beceriler 
-- Temel araçlar: `Nmap`, `Wireshark` , `Burp Suite `  
-- Diller / scripting: `Python `, `Bash (temel)`  
-- Platformlar / öğrenme: `TryHackMe`, `HackTheBox (başlangıç)`  
+🧰 Current Skills
+
+Core tools: Nmap, Wireshark, Burp Suite
+
+Languages / scripting: Python, Bash (basic)
+
+Platforms / learning: TryHackMe, HackTheBox (beginner) 
 
 ---
+
+
+
+<p> <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe" /> </a> <a href="https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 
 ## 🔗 İletişim 
 <p>
