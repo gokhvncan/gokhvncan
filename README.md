@@ -18,20 +18,14 @@
 - Diller / scripting: `Python `, `Bash (temel)`  
 - Platformlar / öğrenme: `TryHackMe`, `HackTheBox (başlangıç)`  
 
-
 ---
 
-
-## 🧪 TryHackMe 
+## 🔗 İletişim 
 <p>
   <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
-
----
-
-## 🔗 İletişim 
 - LinkedIn: https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/  
 - TryHackMe: https://tryhackme.com/p/cangokhan  
 
