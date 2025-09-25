@@ -8,7 +8,7 @@
 
 👋 About Me
 
-Hi — I’m Gökhan Can, an intermediate-level enthusiast in the field of cybersecurity.
+Hi — I’m Gökhan Can, an entry-level enthusiast in the field of cybersecurity.
 
 Currently: learning, practicing, and building small tools/projects.
 
