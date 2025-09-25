@@ -18,11 +18,11 @@ My interests include: penetration testing, log analysis, network scanning, and S
 
 🧰 Current Skills
 
-Core tools: Nmap, Wireshark, Burp Suite
+Core tools: Nmap, Wireshark, Burp Suite, Metasploit
 
-Languages / scripting: Python, Bash (basic)
+Languages / scripting: Python, Java
 
-Platforms / learning: TryHackMe, HackTheBox (beginner) 
+Platforms / learning: TryHackMe, HackTheBox 
 
 ---
 
