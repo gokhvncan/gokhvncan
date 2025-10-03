@@ -1,7 +1,8 @@
 # 🛡️ Gökhan Can — Junior Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Digital_rain_animation_medium_letters_shine.gif" width="400" alt="Digital rain - cyber" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="Your Image Badge" />
+
 </p>
 
 ---
