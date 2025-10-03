@@ -32,7 +32,8 @@ Platforms / learning: TryHackMe, HackTheBox
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5687556" style='border:none;'></iframe>
+
 
 ---
 
