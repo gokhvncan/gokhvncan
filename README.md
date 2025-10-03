@@ -11,9 +11,6 @@ Gökhan Can | Aspiring Cybersecurity Analyst
 
 A proactive and self-motivated cybersecurity professional with a strong focus on penetration testing, log analysis, and network security. I actively hone my skills by building custom Python tools for automation and tackling real-world scenarios on platforms like TryHackMe and Hack The Box. My objective is to leverage my technical abilities to strengthen an organization's security posture.
 
-Option 2: Detailed & Structured (For a Full LinkedIn "About" Section or Personal Website)
-This version uses clear categories to showcase the depth of your skills and makes it easy for employers to scan.
-
 👋 About Me
 
 I'm Gökhan Can, a passionate cybersecurity professional dedicated to continuous learning and practical application. I focus on turning theoretical knowledge into tangible outcomes by developing automation scripts and small security tools. My goal is to contribute to the security of digital environments by mastering both offensive and defensive techniques with a proactive approach.
