@@ -32,7 +32,8 @@ Platforms / learning: TryHackMe, HackTheBox
 
 
 
-[![My TryHackMe Profile](https://tryhackme-badge.getsec.in/badge/cangokhan.svg)](https://tryhackme.com/p/cangokhan)
+<img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="Your Image Badge" />
+
 ---
 
 
