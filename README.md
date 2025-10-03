@@ -30,6 +30,10 @@ Platforms / learning: TryHackMe, HackTheBox
 <p> <a href="https://tryhackme.com/p/cangokhan" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-FF6A00?logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a> <a href="https://www.linkedin.com/in/g%C3%B6khan-can-483b1b290/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 
+
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5687556" style='border:none;'></iframe>
+
 ---
 
 
