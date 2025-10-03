@@ -32,8 +32,7 @@ Platforms / learning: TryHackMe, HackTheBox
 
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5687556" style='border:none;'></iframe>
-
+[![My TryHackMe Profile](https://tryhackme-badge.getsec.in/badge/cangokhan.svg)](https://tryhackme.com/p/cangokhan)
 ---
 
 
