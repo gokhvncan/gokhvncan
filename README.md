@@ -5,6 +5,8 @@
 
 ---
 <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="Your Image Badge" />
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gökhan-can-483b1b290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/g%C3%B6khan-can-483b1b290?trk=profile-badge">Gökhan Can</a></div>
+              
 
 
 Gökhan Can | Aspiring Cybersecurity Analyst
