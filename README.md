@@ -70,14 +70,10 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 ### 📈 GitHub İstatistiklerim
 
+HTML
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E58&width=435&lines=Merhaba,+Ben+Gökhan;Kodlama+ve+Yazılım+Geliştirme;Projelerimi+İncele!" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=html,css,py,js,cpp,linux,git,docker&theme=dark" />
+  <img src="https://iso.500.kevops.xyz/api?user=gokhvncan&theme=dark" alt="gokhvncan isometric commit graph" />
 </div>
 
 <div align="center">
