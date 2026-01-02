@@ -69,11 +69,8 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 ### 📈 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="gokhvncan github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="gokhvncan top languages" />
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 <br>
 
 <div align="center">
