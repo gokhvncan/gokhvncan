@@ -73,7 +73,7 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 HTML
 
 <div align="center">
-  <img src="https://iso.500.kevops.xyz/api?user=gokhvncan&theme=dark" alt="gokhvncan isometric commit graph" />
+  <img src="https://github-readme-snake.vercel.app/api?username=gokhvncan&theme=dark&bg_color=0d1117&hide_border=true" alt="snake animation" />
 </div>
 
 <div align="center">
