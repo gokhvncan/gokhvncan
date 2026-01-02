@@ -69,6 +69,12 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 ---
 
 ### 📈 GitHub İstatistiklerim
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokhvncan&theme=github_dark"
+    alt="GitHub Stats"
+  />
+</p>
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="TryHackMe Badge" />
