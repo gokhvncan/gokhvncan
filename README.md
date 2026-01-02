@@ -69,9 +69,13 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 ### 📈 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokhvncan&theme=highcontrast&hide_border=true" alt="gokhvncan streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophies.vercel.app/?username=gokhvncan&theme=gitdimmed&no-frame=true&margin-w=4" alt="gokhvncan trophies" />
+</div>
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="TryHackMe Badge" />
