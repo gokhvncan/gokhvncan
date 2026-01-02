@@ -63,6 +63,7 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 * 📜 **Applied Penetration Testing** - BTK Academy
 * 🕵️ **OSINT Certification** - Basel Institute on Governance
+* 🏆 **CAPT Certification** Certified Associate Penetration Tester on Hackviser
 * 🎓 **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
 
 ---
@@ -70,7 +71,13 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 ### 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokhvncan&theme=react-dark&hide_border=true&area=true" alt="gokhvncan activity graph" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F9E58&width=435&lines=Merhaba,+Ben+Gökhan;Kodlama+ve+Yazılım+Geliştirme;Projelerimi+İncele!" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=html,css,py,js,cpp,linux,git,docker&theme=dark" />
 </div>
 
 <div align="center">
