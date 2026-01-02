@@ -70,11 +70,7 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 ### 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokhvncan&theme=highcontrast&hide_border=true" alt="gokhvncan streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophies.vercel.app/?username=gokhvncan&theme=gitdimmed&no-frame=true&margin-w=4" alt="gokhvncan trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokhvncan&theme=react-dark&hide_border=true&area=true" alt="gokhvncan activity graph" />
 </div>
 
 <div align="center">
