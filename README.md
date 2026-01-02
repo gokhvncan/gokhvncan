@@ -71,7 +71,7 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 ### 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=gokhvncan&theme=dark&bg_color=0d1117&hide_border=true" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00f260,0575E6&height=250&section=header&text=Gökhan%20Can&fontSize=70&fontAlignY=35&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
