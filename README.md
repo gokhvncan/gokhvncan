@@ -1,149 +1,82 @@
 <div align="center">
-🛡️ Gökhan Can
-Cybersecurity Specialist | SOC Analyst | Network Security Enthusiast
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Network+Defense+%26+SOC+Operations;Python+Security+Automation;Threat+Detection+%26+Analysis;Offensive+Security+Mindset;Building+Secure+Systems" alt="Typing Animation" />
-</div>
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+  
+  # Hi there, I'm Gökhan Can! 👋
+  
+  <h2>🛡️ Aspiring Network Security & SOC Analyst</h2>
 
-🎯 About Me
-pythonclass CybersecuritySpecialist:
-    def __init__(self):
-        self.name = "Gökhan Can"
-        self.role = "Junior Security Analyst"
-        self.location = "Turkey"
-        self.education = "Computer Programming @ Atatürk University"
-        
-    def get_expertise(self):
-        return {
-            "offensive": ["Penetration Testing", "Web Application Security", "OSINT"],
-            "defensive": ["SOC Operations", "Log Analysis", "Threat Detection"],
-            "networking": ["Network Security", "Traffic Analysis", "Firewall Management"],
-            "automation": ["Python Scripts", "Security Tools", "SIEM Integration"]
-        }
-    
-    def current_focus(self):
-        return ["Threat Hunting", "Advanced Network Analysis", "SIEM Automation"]
-🔐 Professional Focus
-Siber güvenlik alanında Red Team ve Blue Team yeteneklerini birleştirerek organizasyonları güçlendirmeye odaklanıyorum. Tehditleri tespit etmek, analiz etmek ve savunma mekanizmalarını geliştirmek için Python otomasyonu ve pratik deneyimlerimi kullanıyorum.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=Network+Defense+%26+SOC+Operations;Python+Security+Automation;Log+Analysis+%26+Incident+Response;Offensive+Security+Mindset" alt="Typing SVG" />
+  </a>
 
-🔭 Current Work: Advanced Log Analysis & SIEM Integration
-🌱 Learning: Threat Hunting Techniques & Advanced Network Forensics
-💡 Interests: Security Automation, Incident Response, Malware Analysis
-🎓 Education: Associate Degree in Computer Programming (2024-2026)
-
-
-🛠️ Technical Arsenal
-<div align="center">
-Security Tools & Platforms
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Programming & Scripting
-Show Image
-Show Image
-Show Image
-Show Image
-Operating Systems & Infrastructure
-Show Image
-Show Image
-Show Image
-Show Image
+  <p>
+    <a href="https://www.linkedin.com/in/gokhvncan/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com/p/cangokhan" target="_blank">
+      <img src="https://img.shields.io/badge/TryHackMe-cangokhan-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    </a>
+    <a href="mailto:gokhancbusiness@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-🚀 Featured Security Projects
+---
+
+### 👨‍💻 Hakkımda (About Me)
+
+Siber güvenlik alanında kariyer hedefleyen, **Ağ Güvenliği**, **SOC Operasyonları** ve **Sızma Testi** temellerine sahip bir Junior Siber Güvenlik uzmanıyım. Ofansif bakış açısını (Red Team) defansif analiz (Blue Team) yetenekleriyle birleştirerek tehditleri tespit etmeye ve organizasyonel güvenliği güçlendirmeye odaklanıyorum.
+
+Şu anda **Python** ile güvenlik otomasyon araçları geliştiriyor, **TryHackMe** ve **Hack The Box** üzerinde gerçek dünya senaryoları ile pratik yapıyorum.
+
+* 🔭 **Şu an üzerinde çalıştığım:** Gelişmiş Log Analizi ve SIEM entegrasyonları.
+* 🌱 **Öğrenmeye devam ettiğim:** Tehdit Avcılığı (Threat Hunting) ve İleri Seviye Ağ Analizi.
+* 💬 **Bana şunlarla ilgili soru sorabilirsin:** Python otomasyonu, Nmap, Wireshark analizleri.
+
+---
+
+### 🛠️ Yetkinlikler & Araçlar (Tech Stack)
+
 <div align="center">
-🔐 Project📝 Description🛠️ Tech Stack🔗 LinkFile Integrity MonitorReal-time file integrity monitoring system using cryptographic hashing to detect unauthorized modifications on Linux systemsPython Cryptography SHA-256View →Vuln-HunterAutomated web vulnerability scanner detecting SQL Injection and XSS vulnerabilities with custom payload injectionPython Requests BeautifulSoupView →Syslog ParserAdvanced log analysis tool that parses Linux system logs to identify suspicious activities and security eventsPython Regex JSONView →
+
+| **Cyber Security (Red & Blue)** | **Programming & Scripting** | **OS & Tools** |
+|:---:|:---:|:---:|
+| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square&logo=nmap&logoColor=white) <br> ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F66?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-333?style=flat-square&logo=metasploit&logoColor=white) <br> ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-00B5E2?style=flat-square&logo=wazuh&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) <br> ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-7D939A?style=flat-square&logo=windows&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
 </div>
 
-📜 Certifications & Achievements
-<div align="center">
-🏆 Certification🏛️ Issuer📅 YearCAPT - Certified Associate Penetration TesterHackviser2024Applied Penetration TestingBTK Academy2024OSINT CertificationBasel Institute on Governance2024
-</div>
+---
 
-📊 GitHub Analytics
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokhvncan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhvncan&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-</div>
-<div align="center">
-Show Image
-</div>
+### 🚀 Öne Çıkan Projeler (Featured Projects)
 
-🎓 Training Platforms
+CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
+
+| Proje Adı | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **🛡️ File Integrity Monitor (FIM)** | Linux sistemlerinde yetkisiz dosya değişikliklerini tespit eden, hash tabanlı bütünlük doğrulama aracı. | Python, Cryptography |
+| **🕷️ Vuln-Hunter** | SQL Injection ve XSS zafiyetlerini tespit etmek için payload otomasyonu sağlayan web güvenlik aracı. | Python, Requests |
+| **📊 Syslog Parser** | Linux sistem loglarını analiz ederek şüpheli aktiviteleri (başarısız girişler vb.) kategorize eden log analiz aracı. | Python, Regex |
+
+---
+
+### 🏆 Sertifikalar & Eğitim (Certifications)
+
+* 📜 **Applied Penetration Testing** - BTK Academy
+* 🕵️ **OSINT Certification** - Basel Institute on Governance
+* 🏆 **CAPT Certification** Certified Associate Penetration Tester on Hackviser
+* 🎓 **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
+
+---
+
+### 📈 GitHub İstatistiklerim
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokhvncan&theme=github_dark"
+    alt="GitHub Stats"
+  />
+</p>
+
 <div align="center">
-<a href="https://tryhackme.com/p/cangokhan" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="TryHackMe Badge" />
-</a>
-🏅 Platform Statistics
-Show Image
-Show Image
-</div>
+</div> 
 
-💼 Professional Skillset
-yamlTechnical Expertise:
-  Network Security:
-    - Firewall Configuration & Management
-    - Network Traffic Analysis (Wireshark, tcpdump)
-    - IDS/IPS Implementation
-    - VPN & Secure Network Design
-  
-  SOC Operations:
-    - Security Event Monitoring
-    - Log Analysis & Correlation
-    - Incident Detection & Response
-    - SIEM Platform Management (Splunk, Wazuh)
-  
-  Offensive Security:
-    - Web Application Penetration Testing
-    - Network Vulnerability Assessment
-    - Exploitation Techniques
-    - OSINT & Reconnaissance
-  
-  Automation & Development:
-    - Python Security Scripts
-    - Bash Automation
-    - API Integration
-    - Custom Tool Development
-
-Soft Skills:
-  - Analytical Thinking
-  - Problem Solving
-  - Team Collaboration
-  - Continuous Learning
-
-📈 Contribution Activity
-<div align="center">
-Show Image
-</div>
-
-🎯 Current Goals for 2026
-
-🎯 Complete 100+ TryHackMe rooms
-📚 Achieve CEH (Certified Ethical Hacker) certification
-🔐 Contribute to open-source security projects
-💼 Secure a SOC Analyst position
-🛠️ Develop 5+ new security automation tools
-📖 Share knowledge through technical blog posts
-
-
-📬 Connect With Me
-<div align="center">
-Let's collaborate on cybersecurity projects or discuss the latest security trends!
-Show Image
-Show Image
-Show Image
-<img src="https://komarev.com/ghpvc/?username=gokhvncan&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-💭 "Security is not a product, but a process." - Bruce Schneier
-⚡ Happy Hacking & Stay Secure! ⚡
-</div>
