@@ -29,9 +29,9 @@ Siber güvenlik alanında kariyer hedefleyen, **Ağ Güvenliği**, **SOC Operasy
 
 Şu anda **Python** ile güvenlik otomasyon araçları geliştiriyor, **TryHackMe** ve **Hack The Box** üzerinde gerçek dünya senaryoları ile pratik yapıyorum.
 
-* 🔭 **Şu an üzerinde çalıştığım:** Gelişmiş Log Analizi ve SIEM entegrasyonları.
-* 🌱 **Öğrenmeye devam ettiğim:** Tehdit Avcılığı (Threat Hunting) ve İleri Seviye Ağ Analizi.
-* 💬 **Bana şunlarla ilgili soru sorabilirsin:** Python otomasyonu, Nmap, Wireshark analizleri.
+*  **Şu an üzerinde çalıştığım:** Gelişmiş Log Analizi ve SIEM entegrasyonları.
+*  **Öğrenmeye devam ettiğim:** Tehdit Avcılığı (Threat Hunting) ve İleri Seviye Ağ Analizi.
+*  **Bana şunlarla ilgili soru sorabilirsin:** Python otomasyonu, Nmap, Wireshark analizleri.
 
 ---
 
@@ -53,18 +53,18 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **🛡️ File Integrity Monitor (FIM)** | Linux sistemlerinde yetkisiz dosya değişikliklerini tespit eden, hash tabanlı bütünlük doğrulama aracı. | Python, Cryptography |
-| **🕷️ Vuln-Hunter** | SQL Injection ve XSS zafiyetlerini tespit etmek için payload otomasyonu sağlayan web güvenlik aracı. | Python, Requests |
-| **📊 Syslog Parser** | Linux sistem loglarını analiz ederek şüpheli aktiviteleri (başarısız girişler vb.) kategorize eden log analiz aracı. | Python, Regex |
+| ** File Integrity Monitor (FIM)** | Linux sistemlerinde yetkisiz dosya değişikliklerini tespit eden, hash tabanlı bütünlük doğrulama aracı. | Python, Cryptography |
+| ** Vuln-Hunter** | SQL Injection ve XSS zafiyetlerini tespit etmek için payload otomasyonu sağlayan web güvenlik aracı. | Python, Requests |
+| ** Syslog Parser** | Linux sistem loglarını analiz ederek şüpheli aktiviteleri (başarısız girişler vb.) kategorize eden log analiz aracı. | Python, Regex |
 
 ---
 
 ### 🏆 Sertifikalar & Eğitim (Certifications)
 
-* 📜 **Applied Penetration Testing** - BTK Academy
-* 🕵️ **OSINT Certification** - Basel Institute on Governance
-* 🏆 **CAPT Certification** Certified Associate Penetration Tester on Hackviser
-* 🎓 **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
+*  **Applied Penetration Testing** - BTK Academy
+*  **OSINT Certification** - Basel Institute on Governance
+*  **CAPT Certification** Certified Associate Penetration Tester on Hackviser
+*  **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
 
 ---
 
