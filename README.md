@@ -1,82 +1,39 @@
-<div align="center">
-  
-  # Hi there, I'm Gökhan Can! 👋
-  
-  <h2>🛡️ Aspiring Network Security & SOC Analyst</h2>
+Hi there, I'm Gökhan Can! 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F705&center=true&vCenter=true&width=435&lines=Network+Defense+%26+SOC+Operations;Python+Security+Automation;Log+Analysis+%26+Incident+Response;Offensive+Security+Mindset" alt="Typing SVG" />
-  </a>
+### 🖥️ IT Support Specialist | Systems & Network Administration | Web Development
 
-  <p>
-    <a href="https://www.linkedin.com/in/gokhvncan/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://tryhackme.com/p/cangokhan" target="_blank">
-      <img src="https://img.shields.io/badge/TryHackMe-cangokhan-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    </a>
-    <a href="mailto:gokhancbusiness@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+## 👨‍💻 Hakkımda (About Me)
 
----
+Sistem yönetimi, ağ altyapısı ve web geliştirmeyi bir arada yürütebilen bir **IT Destek & Sistem Yönetimi** meraklısıyım. Windows Server, Active Directory, DNS/DHCP, VPN ve firewall konfigürasyonu konularında uygulamalı laboratuvar deneyimine sahibim; HTML, PHP, ASP ve WordPress ile web sitesi kurulumu ve özelleştirmesi yapabiliyorum.
 
-### 👨‍💻 Hakkımda (About Me)
+Sistem izleme ve log analizi geçmişim (Wazuh, Splunk, Wireshark) sayesinde, uç nokta ve ağ sorunlarını hızlı teşhis edebiliyor; olayları dokümante edip SLA disiplinine uygun şekilde takip edebiliyorum.
 
-Siber güvenlik alanında kariyer hedefleyen, **Ağ Güvenliği**, **SOC Operasyonları** ve **Sızma Testi** temellerine sahip bir Junior Siber Güvenlik uzmanıyım. Ofansif bakış açısını (Red Team) defansif analiz (Blue Team) yetenekleriyle birleştirerek tehditleri tespit etmeye ve organizasyonel güvenliği güçlendirmeye odaklanıyorum.
+- 🔧 Şu an üzerinde çalıştığım: Windows Server / Active Directory laboratuvar ortamlarını genişletmek ve web tabanlı otomasyon araçları geliştirmek.
+- 📚 Öğrenmeye devam ettiğim: ERP & Depo Otomasyonu sistemleri, ileri seviye ağ cihazı (switch/router) yönetimi.
+- 💬 Bana şunlarla ilgili soru sorabilirsin: Active Directory/GPO, Python & Bash otomasyonu, WordPress/PHP geliştirme, temel ağ ve VPN yapılandırması.
 
-Şu anda **Python** ile güvenlik otomasyon araçları geliştiriyor, **TryHackMe** ve **Hack The Box** üzerinde gerçek dünya senaryoları ile pratik yapıyorum.
+## 🛠️ Yetkinlikler & Araçlar (Tech Stack)
 
-*  **Şu an üzerinde çalıştığım:** Gelişmiş Log Analizi ve SIEM entegrasyonları.
-*  **Öğrenmeye devam ettiğim:** Tehdit Avcılığı (Threat Hunting) ve İleri Seviye Ağ Analizi.
-*  **Bana şunlarla ilgili soru sorabilirsin:** Python otomasyonu, Nmap, Wireshark analizleri.
+| Sistem & Ağ Yönetimi | Web Geliştirme | Scripting & Otomasyon | İzleme & Güvenlik |
+|---|---|---|---|
+| Windows Server, Active Directory | HTML, PHP, ASP | Python, Bash | Wazuh, Splunk |
+| DNS, DHCP, GPO | WordPress | Git | Wireshark, Nmap |
+| VPN, Firewall / Security Group | Nginx | | Burp Suite, Metasploit |
+| Ubuntu Server, CentOS, Kali Linux | | | |
 
----
+## 🚀 Öne Çıkan Projeler (Featured Projects)
 
-### 🛠️ Yetkinlikler & Araçlar (Tech Stack)
-
-<div align="center">
-
-| **Cyber Security (Red & Blue)** | **Programming & Scripting** | **OS & Tools** |
-|:---:|:---:|:---:|
-| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square&logo=nmap&logoColor=white) <br> ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F66?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-333?style=flat-square&logo=metasploit&logoColor=white) <br> ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-00B5E2?style=flat-square&logo=wazuh&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) <br> ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-7D939A?style=flat-square&logo=windows&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</div>
-
----
-
-### 🚀 Öne Çıkan Projeler (Featured Projects)
-
-CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
+CV'mde yer alan ve aktif olarak geliştirdiğim projeler:
 
 | Proje Adı | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| ** File Integrity Monitor (FIM)** | Linux sistemlerinde yetkisiz dosya değişikliklerini tespit eden, hash tabanlı bütünlük doğrulama aracı. | Python, Cryptography |
-| ** Vuln-Hunter** | SQL Injection ve XSS zafiyetlerini tespit etmek için payload otomasyonu sağlayan web güvenlik aracı. | Python, Requests |
-| ** Syslog Parser** | Linux sistem loglarını analiz ederek şüpheli aktiviteleri (başarısız girişler vb.) kategorize eden log analiz aracı. | Python, Regex |
+|---|---|---|
+| **File Integrity Monitor (FIM)** | Kritik sistemlerde yetkisiz dosya değişikliklerini hash tabanlı bütünlük doğrulamasıyla gerçek zamanlı tespit eden izleme aracı. | Python, Cryptography |
+| **Syslog Parser & Log Triage Tool** | Sistem loglarını filtreleyip kategorize eden, şüpheli/anormal davranışları (başarısız girişler vb.) tespit eden log analiz aracı — sistem yöneticilerinin manuel inceleme süresini azaltmayı hedefler. | Python, Regex |
+| **Vuln-Hunter** | Web uygulamalarındaki SQL Injection ve XSS zafiyetlerini tespit etmek için payload iletimi ve yanıt analizini otomatize eden tarayıcı. | Python, Requests |
 
----
+## 🏆 Sertifikalar & Eğitim (Certifications)
 
-### 🏆 Sertifikalar & Eğitim (Certifications)
-
-*  **Applied Penetration Testing** - BTK Academy
-*  **OSINT Certification** - Basel Institute on Governance
-*  **CAPT Certification** Certified Associate Penetration Tester on Hackviser
-*  **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
-
----
-
-### 📈 GitHub İstatistiklerim
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokhvncan&theme=github_dark"
-    alt="GitHub Stats"
-  />
-</p>
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/cangokhan.png" alt="TryHackMe Badge" />
-</div> 
-
+- Applied Penetration Testing — BTK Akademi
+- OSINT Certification — Basel Institute on Governance
+- CAPT (Certified Associate Penetration Tester) — Hackviser
+- Bilgisayar Programcılığı (Ön Lisans) — Atatürk Üniversitesi (2024–2026)
