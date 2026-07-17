@@ -67,7 +67,10 @@ CV'mde yer alan ve aktif olarak geliştirdiğim güvenlik araçları:
 
 *  **Applied Penetration Testing** - BTK Academy
 *  **OSINT Certification** - Basel Institute on Governance
-*  **CAPT Certification** Certified Associate Penetration Tester on Hackviser
+*  **CAPT Certification** - Certified Associate Penetration Tester on Hackviser
+*  **Junior Cybersecurity Analyst** - Cisco Networking Academy
+*  **EF SET English Certificate 87/100 (C1 Proficient)**
+*  **Network Defense** - Cisco Networking Academy
 *  **Computer Programming (Associate Degree)** - Atatürk University (2024-2026)
 
 ---
