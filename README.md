@@ -1,6 +1,3 @@
-Cybersecurity Analyst | Network Security | Python 🛡️💻
-
-
 
 <div align="center">
   
